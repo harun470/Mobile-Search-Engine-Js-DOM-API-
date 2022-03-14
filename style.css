@@ -1,0 +1,31 @@
+body{
+    background: linear-gradient(90deg, #ffefc7, #fdfbee);
+    
+}
+
+/* heading part */
+#heading{
+    color: #3f966c; 
+}
+#heading span{
+    color:#ff007f;
+}
+#button-addon2{
+    background-color: #ff007f;
+    color: white;
+}
+
+/* single item */
+#singleItem{
+    width: 300px;
+    margin-bottom: 10px;   
+}
+
+/* error */
+#error{
+    background-color: rgba(221, 48, 48, 0.719);
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+}
+
